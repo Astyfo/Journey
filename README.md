@@ -2,7 +2,7 @@
 
 Learning the ropes when it comes to all things IT
 
-I absoltely love IT and every aspect of it. I am creating this website for my own learning purposes as well as creating a free website and not having to spend a dine!
+I absolutely love IT and every aspect of it. I am creating this website for my own learning purposes as well as creating a free website and not having to spend a dine!
 
 ### Markdown
 
