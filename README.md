@@ -15,4 +15,4 @@ And yes I am an actor turned 'IT Geek'.
 Why the sudden change? Well long story short, the entertainment industry is super cut-throat and i'm not a cut throat sorta guy.
 
 
-<a href="currentstatus.html" title="Current Status"</a>
+<a href="currentstatus.html">Current Status</a>
