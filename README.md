@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Martin Astifo's Practise Makes Permanent 
 
-You can use the [editor on GitHub](https://github.com/Astyfo/Journey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Learning the ropes when it comes to all things IT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I absoltely love IT and every aspect of it. I am creating this website for my own learning purposes as well as creating a free website and not having to spend a dine!
 
 ### Markdown
 
